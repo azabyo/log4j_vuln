@@ -6,7 +6,7 @@
 
 # PoC 환경
   * Victim : log4j 취약점을 갖은 서버 (vulnerable-app)
-    * e.g.) log.info("X-Api-Version: {}, X-Api-Version);
+    * e.g.) log.info("Received a request for API version {}", X-Api-Version);
     * listen port 8080
     * ![victim](image/victim_vuln_spring_server.png)
   * Attacker LDAP 조회 응답 서버
