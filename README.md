@@ -5,7 +5,7 @@
   * java class의 URI도 LDAP이나 DNS lookup의 리턴값으로 가져올 수 있음 
 
 # PoC 환경
-  * Victim : log4j 취약점을 갖은 서버
+  * Victim : log4j 취약점을 갖은 서버 (vulnerable-app)
     * e.g.) log.info("X-Api-Version: {}, X-Api-Version);
     * listen port 8080
     * ![victim](image/victim_vuln_spring_server.png)
