@@ -40,6 +40,9 @@
   * 해당 서버 내 /tmp log4j_vuln_cjcert 파일 생성
     * ![attk_result](image/attack_result.png)
 
+# 정규식
+https://regex101.com/r/ssSBdZ/2
+
 # 영향받는 시스템
   * Elasticsearch
   * Grails
