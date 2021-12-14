@@ -43,6 +43,9 @@
 # 정규식
 https://regex101.com/r/ssSBdZ/2
 
+# header 정보
+https://github.com/fullhunt/log4j-scan/blob/master/headers-large.txt
+
 # 영향받는 시스템
   * Elasticsearch
   * Grails
